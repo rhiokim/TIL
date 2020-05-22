@@ -13,6 +13,11 @@
   > 컴파일 속도 향상
   - [ ] https://github.com/denoland/deno/issues/986
   > 바이너리 컴파일 관련
+### Docker
+- Support Multi CPU Architecture https://docs.docker.com/docker-for-mac/multi-arch/
+> 공개된 이미지가 Multi CPU Architecture 를 지원하는 경우 Docker Hub 에서 image pull 할 때 architecture 를 명시하지 않아
+> 자동으로 적절한 이미지 다운로드
+
 
 ## 20200504-0510
 
