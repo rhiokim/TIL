@@ -13,3 +13,7 @@
 비슷한 예시
 
 - https://github.com/keroxp/deno_plugin_example
+
+## References
+- https://github.com/divy-work/autopilot-deno
+> deno for desktop automation
