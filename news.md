@@ -1,6 +1,9 @@
 # News
 
 ## 20200518-0525
+- Passwordless Authentication with Magic Links
+  - https://auth0.com/docs/connections/passwordless/guides/email-magic-link
+  > ![Magic link transaction](https://cdn2.auth0.com/docs/media/articles/connections/passwordless/passwordless-email-magic-link-start-flow.png)
 - Rust
   - [ ] https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/
   > 작은 사이즈의 마크다운 컴파일러를 작성하면서 배우는 rust
@@ -13,6 +16,7 @@
   > 컴파일 속도 향상
   - [ ] https://github.com/denoland/deno/issues/986
   > 바이너리 컴파일 관련
+
 ### Docker
 - Support Multi CPU Architecture https://docs.docker.com/docker-for-mac/multi-arch/
 > 공개된 이미지가 Multi CPU Architecture 를 지원하는 경우 Docker Hub 에서 image pull 할 때 architecture 를 명시하지 않아
