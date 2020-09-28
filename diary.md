@@ -1,3 +1,9 @@
+count(list) vs list.length
+> 최근에 깊이 있게 시작하고 있지만 functionl progmaing 에 대한 이야기를 할때 이 두가지면 그 가치를 어느 정도 설명할 수 있다. 
+> `count` 의 의미는 사전적으로 불변이고 어떤 input 에 대한 output 에 대한 메타포가 이미 내재되어 있다.
+> `list` 는 상황에 따라 `list` 라고 했다가 `listArray` 라고 했다가 `collection` 이라고 했다가 `bookList` 라고 했다가 `filteredBookiList 라고 했다가 알고 봤더니 array 가 아니고 map, set 이였다가 `.length` 를 참조하려고 했던 본연의 목적은 '개수'
+> '개수' 가 로직의 흐름을 만들기 때문이다.  _아 내공이 부족하다. 설명이 안된다._
+
 38 + 2
 > 38 살쯤 되었을때 인가? 그땐 뭐라도 할것 같았고 우당탕 즐기며 뒤도 안보고 달려왔던 시간들
 > 그 시간들을 담보로 어떤 문제도 해결할 것만 같았다.
